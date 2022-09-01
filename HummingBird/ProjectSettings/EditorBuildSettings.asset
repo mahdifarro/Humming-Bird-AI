@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Hummingbird/Scenes/Training.unity
+    guid: f36411d6fac4ba04a965fa55cf1487e9
   m_configObjects: {}
